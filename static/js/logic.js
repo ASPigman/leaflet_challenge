@@ -137,13 +137,13 @@ function earthquakeMarkers(response){
 // Function to Update the legend's innerHTML
 function createLegend(){
     document.querySelector('.legend').innerHTML = [
-        '<h4>Depth Legend</h4><hr/>',
-        "<div class='depthValues'><div class='box' style='background-color:#a3f601;'></div> -10-10</div>",
-        "<div class='depthValues'><div class='box' style='background-color:#dcf400;'></div> 10-30</div>",
-        "<div class='depthValues'><div class='box' style='background-color:#f7db12;'></div> 30-50</div>",
-        "<div class='depthValues'><div class='box' style='background-color:#fdb72a;'></div> 50-70</div>",
-        "<div class='depthValues'><div class='box' style='background-color:#fca35d;'></div> 70-90</div>",
-        "<div class='depthValues><div class='box' style='background-color:#ff5f64;'></div> 90+</div>",
+        '<h4>Depth Legend (in km)</h4><hr/>',
+        "<div class='depthValues'><div class='box' style='background-color: floralwhite;'></div> < 10</div>",
+        "<div class='depthValues'><div class='box' style='background-color: green;'></div> 10-29</div>",
+        "<div class='depthValues'><div class='box' style='background-color: yellowgreen;'></div> 30-49</div>",
+        "<div class='depthValues'><div class='box' style='background-color: yellow;'></div> 50-69</div>",
+        "<div class='depthValues'><div class='box' style='background-color: orange;'></div> 70-89</div>",
+        "<div class='depthValues><div class='box' style='background-color: red;'></div> 90+</div>",
     ].join('');
 };
 

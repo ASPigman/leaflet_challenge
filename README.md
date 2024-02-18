@@ -8,7 +8,7 @@ I used a ‘createMap’ function to add my tiles, base maps , overlay map, to a
 
 Lastly, I created a function to insert the legend in the HTML using the querySelector() and innerHTML() functions. I also researched how to adjust the color of the text in the legend and found a resource that showed me how to do so in the CSS file. 
 
-![earthquake_map](https://github.com/ASPigman/leaflet_challenge/assets/145923874/481efba5-ee96-473a-9b98-8fae10069f17)
+![earthquake_map](https://github.com/ASPigman/leaflet_challenge/assets/145923874/4c5870e0-d23a-40b9-8fe2-9fe3974beab7)
 
 
 ## Acknowledgements

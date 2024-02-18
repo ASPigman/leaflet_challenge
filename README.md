@@ -10,6 +10,10 @@ Lastly, I created a function to insert the legend in the HTML using the querySel
 
 ![earthquake_map](https://github.com/ASPigman/leaflet_challenge/assets/145923874/4c5870e0-d23a-40b9-8fe2-9fe3974beab7)
 
+![plate_boundaries_map](https://github.com/ASPigman/leaflet_challenge/assets/145923874/d0dd51a3-617c-4902-b09a-6d8cfad3c931)
+
+![topo_map_boundaries](https://github.com/ASPigman/leaflet_challenge/assets/145923874/e6682958-6177-42bb-aa5e-6aa67dac3904)
+
 
 ## Acknowledgements
 Othmane Benyoucef - Instructor for Tulsa Community College Data Analytics Accelerated Training Program

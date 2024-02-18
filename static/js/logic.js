@@ -138,7 +138,7 @@ function earthquakeMarkers(response){
 function createLegend(){
     document.querySelector('.legend').innerHTML = [
         '<h4>Depth Legend</h4><hr/>',
-        "<div class='depthValues'><div class='box' style='color:white;'></div> -10-10</div>",
+        "<div class='depthValues'><div class='box' style='background-color:#a3f601;'></div> -10-10</div>",
         "<div class='depthValues'><div class='box' style='background-color:#dcf400;'></div> 10-30</div>",
         "<div class='depthValues'><div class='box' style='background-color:#f7db12;'></div> 30-50</div>",
         "<div class='depthValues'><div class='box' style='background-color:#fdb72a;'></div> 50-70</div>",
